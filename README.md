@@ -28,7 +28,7 @@ I am a Machine lerning  developer <img src="https://media.giphy.com/media/WUlplc
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mukhesh-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
-DO join my discord server for more AI updates in world-ML_HUB
+DO join my discord server for more AI updates in world-Click [here](https://discord.com/channels/962352088308928584/962352088749334529) 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
