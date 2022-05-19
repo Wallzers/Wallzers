@@ -20,7 +20,7 @@ I am a Machine lerning  developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ### :woman_technologist: About Me :
-:telescope: I’m working as a Part time Freelancer and contributing to frontend and backend for building AI applications.
+:telescope: I’m working as a Part time Freelancer and contributing to frontend and backend for building AI and Blockchain WEb 3.0 applications.
 
 - :seedling: Exploring Technical Content Writing.
 
